@@ -1,2 +1,3 @@
-# Mohammad-Dimas-Al-Shiddiq Dan Anis Syarifatul Mursyidah                   
-Project Tic Tac Toe
+#Project Tik Tak Toe
+Mohammad Dimas Al Shiddiq
+Anis Syarifatul Mursyidah                   
